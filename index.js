@@ -66,7 +66,7 @@ else if (yourRandomNumber < devilRandomNumber){
   document.querySelector(".outcome").innerHTML=("<em>The <span>Devil</span> wins your soul!</em>")
 }
 else if (yourRandomNumber === devilRandomNumber){
-  document.querySelector(".outcome").innerHTML=("<em><span>A draw.</span> </br> How about another game?</em>")
+  document.querySelector(".outcome").innerHTML=("<em><span>A draw</span> </br> How about another game?</em>")
 }
 //end of funciton
 }
