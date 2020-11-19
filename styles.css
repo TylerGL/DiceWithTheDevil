@@ -1,0 +1,66 @@
+.container {
+  width: 90%;
+  margin: 3% 5% 3%;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 50px;
+  width: 600px;
+}
+
+body {
+  background-image: url('images/hellbackground.jpg');
+  background-position:center;
+  background-size:cover;
+  background-repeat:repeat-y;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Cinzel', serif;
+  font-weight: 400;
+  font-size: 6rem;
+  color: #fff;
+}
+span{
+  color: #cc1818;
+}
+
+.devilbutton{
+  width: 8%;
+}
+
+h2{
+  margin: 30px;
+  font-family:'Cinzel', serif;
+  font-weight: 400;
+  font-size: 3rem;
+  color: #fff;
+}
+
+p {
+  font-size: 2rem;
+  color: #fff;
+  font-family:'Cinzel', serif;
+  font-weight: 500;
+}
+
+.diceimg {
+  width: 25%;
+}
+
+a{
+  color:#4d4d4d;
+}
+
+footer {
+  margin: 3% 5% 2%;
+  width:90%;
+  color: #4d4d4d;
+  text-align: center;
+  font-family:'Cinzel', serif;
+  font-weight: 500;
+}
