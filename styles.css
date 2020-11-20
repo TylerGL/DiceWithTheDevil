@@ -13,8 +13,8 @@
 
 body {
   background-image: url('images/hellbackground.jpg');
-  background-position:center;
-  background-size:cover;
+  background-position:top;
+  background-size: cover;
   background-repeat:repeat-y;
 }
 
@@ -25,6 +25,7 @@ h1 {
   font-size: 6rem;
   color: #fff;
 }
+
 span{
   color: #cc1818;
 }
@@ -57,6 +58,8 @@ a{
 }
 
 footer {
+  position: absolute;
+  bottom: 2%;
   margin: 3% 5% 2%;
   width:90%;
   color: #4d4d4d;
