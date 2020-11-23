@@ -1,5 +1,5 @@
 //function runs on click
-
+document.querySelector(".devilbutton").addEventListener("click", rollDice);
 //all inside function
 function rollDice(){
 //random number your two dice
